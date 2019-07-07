@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="additional_information" label="Additional information" language="en" table="x_370351_shopglue_orders_list">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>additional_information</element>
+            <help/>
+            <hint/>
+            <label>Additional information</label>
+            <language>en</language>
+            <name>x_370351_shopglue_orders_list</name>
+            <plural>Additional informations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 14:16:12</sys_created_on>
+            <sys_id>fc313060db663300379329464896192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Additional information</sys_name>
+            <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
+            <sys_update_name>sys_documentation_x_370351_shopglue_orders_list_additional_information_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 14:16:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="color" table="x_370351_shopglue_list_items" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Black</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f8a1b98db6233003793294648961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>black</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Blue</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df8a1b98db6233003793294648961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>blue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bronze</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f8a1b98db6233003793294648961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>bronze</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brown</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db8a1b98db623300379329464896199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>brown</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chocolate</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b8a1b98db623300379329464896199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>chocolate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gold</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d78a1b98db623300379329464896199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>gold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gray</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>578a1b98db623300379329464896199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>gray</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Green</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d38a1b98db623300379329464896199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>green</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lemon</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>538a1b98db623300379329464896199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>lemon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Navy blue</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df8a1b98db623300379329464896199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>navy blue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Orange</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f8a1b98db62330037932946489619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>orange</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pink</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db8a1b98db62330037932946489619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>pink</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Purple</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b8a1b98db62330037932946489619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>purple</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Red</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d78a1b98db62330037932946489619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>red</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Silver</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>14</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>578a1b98db62330037932946489619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>silver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tan</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>15</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d38a1b98db62330037932946489619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>tan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Violet</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>16</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>538a1b98db62330037932946489619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>violet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>White</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>17</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df8a1b98db62330037932946489619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>white</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yellow</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>18</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f8a1b98db62330037932946489619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+            <value>yellow</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>color</element>
+            <name>x_370351_shopglue_list_items</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 07:57:38</sys_created_on>
+            <sys_id>d78a1b98db6233003793294648961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>color</sys_name>
+            <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
+            <sys_update_name>sys_choice_x_370351_shopglue_list_items_color</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 07:57:38</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

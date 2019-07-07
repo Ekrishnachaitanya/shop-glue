@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="item_type" table="x_370351_shopglue_list_items" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grocery</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 12:05:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4733dcacdbe233003793294648961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 12:05:17</sys_updated_on>
+            <value>grocery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Electronics</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 12:05:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8733dcacdbe233003793294648961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 12:05:17</sys_updated_on>
+            <value>electronics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Clothes</label>
+            <language>en</language>
+            <name>x_370351_shopglue_list_items</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 12:05:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0733dcacdbe233003793294648961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 12:05:17</sys_updated_on>
+            <value>clothes</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>item_type</element>
+            <name>x_370351_shopglue_list_items</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 12:05:17</sys_created_on>
+            <sys_id>8f33dcacdbe233003793294648961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>item_type</sys_name>
+            <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
+            <sys_update_name>sys_choice_x_370351_shopglue_list_items_item_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 12:05:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

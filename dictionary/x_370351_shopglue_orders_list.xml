@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Orders List" max_length="40" name="x_370351_shopglue_orders_list" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Additional information" max_length="400" name="additional_information" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" mandatory="true" max_length="200" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Colony" mandatory="true" max_length="200" name="colony" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery date" max_length="40" name="delivery_date" read_only="true" type="glide_date"/>
+        <element label="Group" max_length="40" name="group" type="boolean"/>
+        <element label="Item name" max_length="32" name="item_name" read_only="true" reference="x_370351_shopglue_list_items" type="reference"/>
+        <element label="Item number" mandatory="true" max_length="32" name="item_number" reference="x_370351_shopglue_list_items" type="reference"/>
+        <element label="Item type" mandatory="true" max_length="32" name="item_type" reference="x_370351_shopglue_list_items" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="cash on delivery" label="Payment" max_length="40" name="payment" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Cash on Delivery" sequence="0" value="cash on delivery"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Street address" mandatory="true" max_length="255" name="street_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zip code" mandatory="true" max_length="15" name="zip_code" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="List items" max_length="40" name="x_370351_shopglue_list_items" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="black" label="Color" mandatory="true" max_length="40" name="color" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Black" sequence="0" value="black"/>
+                <element inactive_on_update="false" label="Blue" sequence="1" value="blue"/>
+                <element inactive_on_update="false" label="Bronze" sequence="2" value="bronze"/>
+                <element inactive_on_update="false" label="Brown" sequence="3" value="brown"/>
+                <element inactive_on_update="false" label="Chocolate" sequence="4" value="chocolate"/>
+                <element inactive_on_update="false" label="Gold" sequence="5" value="gold"/>
+                <element inactive_on_update="false" label="Gray" sequence="6" value="gray"/>
+                <element inactive_on_update="false" label="Green" sequence="7" value="green"/>
+                <element inactive_on_update="false" label="Lemon" sequence="8" value="lemon"/>
+                <element inactive_on_update="false" label="Navy blue" sequence="9" value="navy blue"/>
+                <element inactive_on_update="false" label="Orange" sequence="10" value="orange"/>
+                <element inactive_on_update="false" label="Pink" sequence="11" value="pink"/>
+                <element inactive_on_update="false" label="Purple" sequence="12" value="purple"/>
+                <element inactive_on_update="false" label="Red" sequence="13" value="red"/>
+                <element inactive_on_update="false" label="Silver" sequence="14" value="silver"/>
+                <element inactive_on_update="false" label="Tan" sequence="15" value="tan"/>
+                <element inactive_on_update="false" label="Violet" sequence="16" value="violet"/>
+                <element inactive_on_update="false" label="White" sequence="17" value="white"/>
+                <element inactive_on_update="false" label="Yellow" sequence="18" value="yellow"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Item name" mandatory="true" max_length="100" name="item_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="grocery" label="Item type" mandatory="true" max_length="40" name="item_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Grocery" sequence="0" value="grocery"/>
+                <element inactive_on_update="false" label="Electronics" sequence="1" value="electronics"/>
+                <element inactive_on_update="false" label="Clothes" sequence="2" value="clothes"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Manufactured" mandatory="true" max_length="200" name="manufactured" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Item number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Offer" max_length="40" name="offer" type="boolean"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Offer price" max_length="20" name="offer_price" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" mandatory="true" max_length="20" name="price" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Product details" mandatory="true" max_length="300" name="product_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" mandatory="true" max_length="150" name="short_description" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

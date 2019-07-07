@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="group" label="Group" language="en" table="x_370351_shopglue_orders_list">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>group</element>
+            <help/>
+            <hint/>
+            <label>Group</label>
+            <language>en</language>
+            <name>x_370351_shopglue_orders_list</name>
+            <plural>Groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-07 04:17:59</sys_created_on>
+            <sys_id>33d1ffe0db2e33003793294648961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Group</sys_name>
+            <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
+            <sys_update_name>sys_documentation_x_370351_shopglue_orders_list_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-07 04:17:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
