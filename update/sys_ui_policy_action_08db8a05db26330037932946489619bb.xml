@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>offer_price</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-08 10:09:28</sys_created_on>
+        <sys_id>08db8a05db26330037932946489619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>offer_price</sys_name>
+        <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
+        <sys_update_name>sys_ui_policy_action_08db8a05db26330037932946489619bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-08 10:09:28</sys_updated_on>
+        <table>x_370351_shopglue_list_items</table>
+        <ui_policy display_value="Displaying offer price">439b8601db2633003793294648961939</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

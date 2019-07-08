@@ -13,6 +13,17 @@
                 <element inactive_on_update="false" label="Cash on Delivery" sequence="0" value="cash on delivery"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Status" max_length="40" name="status" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Place on Order" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Out of Stock" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Packed" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Shipped" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="Delivered" sequence="6" value="7"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Street address" mandatory="true" max_length="255" name="street_address" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Zip code" mandatory="true" max_length="15" name="zip_code" type="string"/>
     </element>
