@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-06 14:16:12</sys_created_on>
-        <sys_id>95c88641db26330037932946489619b4</sys_id>
+        <sys_id>c143e7cddb2a330037932946489619f1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Zip code</sys_name>
         <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
         <sys_update_name>sys_dictionary_x_370351_shopglue_orders_list_zip_code</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-07-08 09:55:48</sys_updated_on>
+        <sys_updated_on>2019-07-08 16:31:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
