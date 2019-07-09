@@ -29,7 +29,7 @@
         <sys_updated_on>2019-07-08 17:26:26</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role display_value="x_370351_shopglue.user" name="x_370351_shopglue.user">21242701db6a33003793294648961986</user_role>
+        <user_role/>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>

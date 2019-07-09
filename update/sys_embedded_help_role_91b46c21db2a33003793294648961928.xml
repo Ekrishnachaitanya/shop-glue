@@ -4,15 +4,15 @@
         <role/>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-07-08 16:54:40</sys_created_on>
-        <sys_id>bda823c1db6a33003793294648961968</sys_id>
+        <sys_created_on>2019-07-09 15:55:33</sys_created_on>
+        <sys_id>91b46c21db2a33003793294648961928</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>3e27e3c1db6a330037932946489619cb</sys_name>
+        <sys_name>a5942061db2a330037932946489619b0</sys_name>
         <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
         <sys_policy/>
         <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
-        <sys_update_name>sys_embedded_help_role_bda823c1db6a33003793294648961968</sys_update_name>
+        <sys_update_name>sys_embedded_help_role_91b46c21db2a33003793294648961928</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-08 16:54:40</sys_updated_on>
+        <sys_updated_on>2019-07-09 15:55:33</sys_updated_on>
     </sys_embedded_help_role>
 </record_update>
