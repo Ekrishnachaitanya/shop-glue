@@ -17,44 +17,30 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:54</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>1cf04965db6a33003793294648961931</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_370351_shopglue_orders_list" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">0db79860db2633003793294648961969</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">54f04965db6a3300379329464896192e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:54</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-07-06 12:24:48</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>09b79860db263300379329464896196c</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_370351_shopglue_orders_list" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">0db79860db2633003793294648961969</sys_ui_form>
             <sys_ui_section caption="Address Details" display_value="Address Details" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">81b79860db2633003793294648961969</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:54</sys_updated_on>
+            <sys_updated_on>2019-07-14 13:25:58</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-07-06 14:16:12</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>3c31fc20db66330037932946489619fd</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_370351_shopglue_orders_list" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">0db79860db2633003793294648961969</sys_ui_form>
             <sys_ui_section caption="Specifications" display_value="Specifications" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">fc31fc20db66330037932946489619fa</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:54</sys_updated_on>
+            <sys_updated_on>2019-07-14 13:25:58</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_370351_shopglue_orders_list</name>

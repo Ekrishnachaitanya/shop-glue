@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:55</sys_created_on>
-            <sys_id>a8f08965db6a33003793294648961900</sys_id>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>e7c0c683db6e3300379329464896198d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:55</sys_updated_on>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>item_number</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:55</sys_created_on>
-            <sys_id>20f08965db6a33003793294648961901</sys_id>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>6bc0c683db6e3300379329464896198d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:55</sys_updated_on>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>assigned_to</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:55</sys_created_on>
-            <sys_id>a0f08965db6a33003793294648961901</sys_id>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>ebc0c683db6e3300379329464896198d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:55</sys_updated_on>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>email_id</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:55</sys_created_on>
-            <sys_id>24f08965db6a33003793294648961901</sys_id>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>6fc0c683db6e3300379329464896198d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:55</sys_updated_on>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,97 +60,167 @@
             <element>group</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:55</sys_created_on>
-            <sys_id>a4f08965db6a33003793294648961901</sys_id>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>efc0c683db6e3300379329464896198d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:55</sys_updated_on>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>in</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>63c0c683db6e3300379329464896198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rating</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>e3c0c683db6e3300379329464896198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:55</sys_created_on>
-            <sys_id>28f08965db6a33003793294648961901</sys_id>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>67c0c683db6e3300379329464896198e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:55</sys_updated_on>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>status</element>
-            <position>6</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:55</sys_created_on>
-            <sys_id>a8f08965db6a33003793294648961901</sys_id>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>e7c0c683db6e3300379329464896198e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:55</sys_updated_on>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
-            <position>7</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:55</sys_created_on>
-            <sys_id>2cf08965db6a33003793294648961901</sys_id>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>6bc0c683db6e3300379329464896198e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:55</sys_updated_on>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>delivery_date</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:55</sys_created_on>
-            <sys_id>acf08965db6a33003793294648961901</sys_id>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>ebc0c683db6e3300379329464896198e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:55</sys_updated_on>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>payment</element>
-            <position>9</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:55</sys_created_on>
-            <sys_id>20f08965db6a33003793294648961902</sys_id>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>6fc0c683db6e3300379329464896198e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:55</sys_updated_on>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assignment_group</element>
-            <position>10</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-09 17:58:55</sys_created_on>
-            <sys_id>a0f08965db6a33003793294648961902</sys_id>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>efc0c683db6e3300379329464896198e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-09 17:58:55</sys_updated_on>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>color</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>63c0c683db6e3300379329464896198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>e3c0c683db6e3300379329464896198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>details</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-14 14:28:48</sys_created_on>
+            <sys_id>67c0c683db6e3300379329464896198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_orders_list" sys_domain="global" view="Default view">8110d8e8dbe23300379329464896195a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-14 14:28:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

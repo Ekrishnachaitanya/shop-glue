@@ -7,7 +7,7 @@
         <action_query>false</action_query>
         <action_update>true</action_update>
         <active>true</active>
-        <add_message>false</add_message>
+        <add_message>true</add_message>
         <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
@@ -18,8 +18,8 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>SetValue of displaying items</name>
-        <order>10</order>
+        <name>Update rating</name>
+        <order>100</order>
         <priority>100</priority>
         <rest_method/>
         <rest_method_text/>
@@ -30,31 +30,42 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-   var a=current.item_number.item_name;
-   var b=current.item_number.color;
-   var d=current.item_number.product_details;
-	current.setValue('in',a);
-	current.setValue('details',d);
-	current.setValue('color',b);
-	
+	var count = new GlideAggregate('x_370351_shopglue_orders_list');
+count.addAggregate('AVG','rating');
+	count.query();
+var average = 0;
+if (count.next()) {
+   average = count.getAggregate('AVG','rating');
+gs.addInfoMessage(average);
+}
+	var object = new GlideRecord('x_370351_shopglue_list_items');
+	var itemname=current.item_number.item_name;
+	gs.addInfoMessage(itemname);
+	object.addQuery('item_name','=',itemname);
+	object.query();
+	while(object.next())
+		{
+			object.rating=average;
+			object.update();
+		}
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-07-09 18:16:15</sys_created_on>
+        <sys_created_on>2019-07-14 17:08:21</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>c34249a5db6a33003793294648961909</sys_id>
-        <sys_mod_count>17</sys_mod_count>
-        <sys_name>SetValue of displaying items</sys_name>
+        <sys_id>5884664bdbae330037932946489619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update rating</sys_name>
         <sys_overrides/>
         <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
         <sys_policy/>
         <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
-        <sys_update_name>sys_script_c34249a5db6a33003793294648961909</sys_update_name>
+        <sys_update_name>sys_script_5884664bdbae330037932946489619f4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-14 14:21:12</sys_updated_on>
+        <sys_updated_on>2019-07-14 17:08:21</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=c34249a5db6a33003793294648961909"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=5884664bdbae330037932946489619f4"/>
 </record_update>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Orders List" max_length="40" name="x_370351_shopglue_orders_list" sizeclass="3" type="collection">
+    <element extends="task" label="Orders List" max_length="40" name="x_370351_shopglue_orders_list" sizeclass="5" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Additional information" max_length="400" name="additional_information" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="City" mandatory="true" max_length="200" name="city" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Colony" mandatory="true" max_length="200" name="colony" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Color" max_length="40" name="color" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Delivery date" max_length="40" name="delivery_date" read_only="true" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Email Id" max_length="100" name="email_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Details of product" max_length="40" name="details" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email Id" mandatory="true" max_length="100" name="email_id" type="string"/>
         <element label="Group" max_length="40" name="group" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Item Name" max_length="40" name="in" read_only="true" type="string"/>
         <element label="Item name" max_length="32" name="item_name" read_only="true" reference="x_370351_shopglue_list_items" type="reference"/>
@@ -15,6 +17,10 @@
                 <element inactive_on_update="false" label="Cash on Delivery" sequence="0" value="cash on delivery"/>
             </choice>
         </element>
+        <element label="Price" max_length="32" name="price" read_only="true" reference="x_370351_shopglue_list_items" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Price of the product" max_length="40" name="price_product" read_only="true" type="string"/>
+        <element label="Product Details" max_length="32" name="product_details" read_only="true" reference="x_370351_shopglue_list_items" type="reference"/>
+        <element label="Rating" max_length="40" name="rating" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Status" max_length="40" name="status" read_only="true" type="string">
             <choice>
                 <element inactive_on_update="false" label="Place on Order" sequence="0" value="1"/>
@@ -27,6 +33,8 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Street address" mandatory="true" max_length="255" name="street_address" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_price_1" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="State" mandatory="true" max_length="40" name="u_state" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Zip code" mandatory="true" max_length="15" name="zip_code" type="string"/>
     </element>
 </database>

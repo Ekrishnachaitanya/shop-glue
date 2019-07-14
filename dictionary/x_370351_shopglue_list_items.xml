@@ -37,6 +37,8 @@
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Offer price" max_length="20" name="offer_price" type="price"/>
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" mandatory="true" max_length="20" name="price" type="price"/>
         <element attributes="edge_encryption_enabled=true" label="Product details" mandatory="true" max_length="300" name="product_details" type="string"/>
+        <element default="None" label="Rated Members" mandatory="true" max_length="40" name="rated_members" type="integer"/>
+        <element default="None" label="Rating" mandatory="true" max_length="40" name="rating" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Short description" mandatory="true" max_length="150" name="short_description" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <index name="index">
