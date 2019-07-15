@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>03700683db6e33003793294648961976</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>db5b95d7db6673003793294648961929</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>item_type</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>83700683db6e33003793294648961976</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>5f5b95d7db6673003793294648961929</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>item_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>07700683db6e33003793294648961976</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>df5b95d7db6673003793294648961929</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>short_description</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>87700683db6e33003793294648961976</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>535b95d7db667300379329464896192a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>color</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>0b700683db6e33003793294648961976</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>d35b95d7db667300379329464896192a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,27 +74,27 @@
             <element>price</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>8b700683db6e33003793294648961976</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>575b95d7db667300379329464896192a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>rating</element>
+            <element>u_rating</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>0f700683db6e33003793294648961976</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>d75b95d7db667300379329464896192a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>rated_members</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>8f700683db6e33003793294648961976</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>5b5b95d7db667300379329464896192a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>offer</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>03700683db6e33003793294648961977</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>db5b95d7db667300379329464896192a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>offer_price</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>83700683db6e33003793294648961977</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>5f5b95d7db667300379329464896192a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>product_details</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>07700683db6e33003793294648961977</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>df5b95d7db667300379329464896192a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>manufactured</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-14 14:27:24</sys_created_on>
-            <sys_id>87700683db6e33003793294648961977</sys_id>
+            <sys_created_on>2019-07-15 06:23:41</sys_created_on>
+            <sys_id>535b95d7db667300379329464896192b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370351_shopglue_list_items" sys_domain="global" view="Default view">756c0b50db62330037932946489619af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-14 14:27:24</sys_updated_on>
+            <sys_updated_on>2019-07-15 06:23:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

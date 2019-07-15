@@ -2,20 +2,20 @@
     <sys_ui_policy_action action="INSERT_OR_UPDATE">
         <cleared>false</cleared>
         <disabled>ignore</disabled>
-        <field>rating</field>
+        <field>urating</field>
         <mandatory>true</mandatory>
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-14 14:30:57</sys_created_on>
         <sys_id>3e310e83db6e3300379329464896197d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>rating</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>urating</sys_name>
         <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
         <sys_policy/>
         <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
         <sys_update_name>sys_ui_policy_action_3e310e83db6e3300379329464896197d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-14 14:30:57</sys_updated_on>
+        <sys_updated_on>2019-07-15 06:28:49</sys_updated_on>
         <table>x_370351_shopglue_orders_list</table>
         <ui_policy display_value="Rating display">3ce00a83db6e330037932946489619db</ui_policy>
         <visible>true</visible>

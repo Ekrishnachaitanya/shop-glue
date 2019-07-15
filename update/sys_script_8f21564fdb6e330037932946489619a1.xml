@@ -6,7 +6,7 @@
         <action_insert>true</action_insert>
         <action_query>false</action_query>
         <action_update>true</action_update>
-        <active>true</active>
+        <active>false</active>
         <add_message>true</add_message>
         <advanced>true</advanced>
         <change_fields>false</change_fields>
@@ -31,15 +31,15 @@
 
 	// Add your code here
 var count = new GlideAggregate('x_370351_shopglue_orders_list');
-count.addAggregate('COUNT','rating');
+count.addAggregate('COUNT');
 count.query();
 var members = 0;
 if (count.next()) {
-   members = count.getAggregate('COUNT','rating');
+   members = count.getAggregate('COUNT');
 }
-		var object = new GlideRecord('x_370351_shopglue_list_items');
+	gs.addInfoMessage(members);
+	var object = new GlideRecord('x_370351_shopglue_list_items');
 	var itemname=current.item_number.item_name;
-	gs.addInfoMessage(itemname);
 	object.addQuery('item_name','=',itemname);
 	object.query();
 	while(object.next())
@@ -55,7 +55,7 @@ if (count.next()) {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8f21564fdb6e330037932946489619a1</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Update Rating members</sys_name>
         <sys_overrides/>
         <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
@@ -63,7 +63,7 @@ if (count.next()) {
         <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
         <sys_update_name>sys_script_8f21564fdb6e330037932946489619a1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-14 17:07:57</sys_updated_on>
+        <sys_updated_on>2019-07-15 06:07:46</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>

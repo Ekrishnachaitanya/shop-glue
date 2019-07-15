@@ -17,7 +17,7 @@
         <execute_function>false</execute_function>
         <filter_condition/>
         <is_rest>false</is_rest>
-        <message/>
+        <message><![CDATA[<p>Thankyou for giving feedback.</p>]]></message>
         <name>Update rating</name>
         <order>100</order>
         <priority>100</priority>
@@ -29,25 +29,32 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-	// Add your code here
-	var count = new GlideAggregate('x_370351_shopglue_orders_list');
-count.addAggregate('AVG','rating');
-	count.query();
-var average = 0;
-if (count.next()) {
-   average = count.getAggregate('AVG','rating');
-gs.addInfoMessage(average);
-}
-	var object = new GlideRecord('x_370351_shopglue_list_items');
+var object1 = new GlideRecord('x_370351_shopglue_orders_list');
 	var itemname=current.item_number.item_name;
-	gs.addInfoMessage(itemname);
+	var sum=0.00;
+	var count=0;
+	object1.addQuery('in','=',itemname);
+	object1.query();
+	while(object1.next())
+		{
+			a=parseFloat(object1.getValue('urating'));
+			a.toFixed(2);
+			count++;
+			sum=sum+a;
+		}
+
+	var object = new GlideRecord('x_370351_shopglue_list_items');
 	object.addQuery('item_name','=',itemname);
 	object.query();
-	while(object.next())
+	var avg=sum/count;
+	avg.toFixed(2);
+	if(object.next())
 		{
-			object.rating=average;
+			object.u_rating=avg;
+			object.rated_members=count;
 			object.update();
 		}
+	
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -55,7 +62,7 @@ gs.addInfoMessage(average);
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5884664bdbae330037932946489619f4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_name>Update rating</sys_name>
         <sys_overrides/>
         <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
@@ -63,9 +70,9 @@ gs.addInfoMessage(average);
         <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
         <sys_update_name>sys_script_5884664bdbae330037932946489619f4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-14 17:08:21</sys_updated_on>
+        <sys_updated_on>2019-07-15 06:26:57</sys_updated_on>
         <template/>
-        <when>before</when>
+        <when>after</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=5884664bdbae330037932946489619f4"/>
 </record_update>
