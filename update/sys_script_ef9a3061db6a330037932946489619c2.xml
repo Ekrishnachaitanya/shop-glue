@@ -31,6 +31,7 @@
 
 	// Add your code here
 	current.delivery_date=gs.daysAgo(-7);
+	current.assigned_to=gs.getUserName();
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -38,7 +39,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ef9a3061db6a330037932946489619c2</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Displaying date</sys_name>
         <sys_overrides/>
         <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
@@ -46,7 +47,7 @@
         <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
         <sys_update_name>sys_script_ef9a3061db6a330037932946489619c2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-15 03:03:50</sys_updated_on>
+        <sys_updated_on>2019-07-15 11:54:58</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

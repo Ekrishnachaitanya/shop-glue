@@ -23,16 +23,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-06 06:49:55</sys_created_on>
         <sys_id>9fb88b94db2233003793294648961924</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>List items</sys_name>
         <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
         <sys_policy/>
         <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
         <sys_update_name>sys_db_object_9fb88b94db2233003793294648961924</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-09 15:57:19</sys_updated_on>
+        <sys_updated_on>2019-07-15 08:23:01</sys_updated_on>
         <update_access>false</update_access>
-        <user_role/>
+        <user_role display_value="x_370351_shopglue.admin" name="x_370351_shopglue.admin">2c567dd7dba6730037932946489619df</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>
