@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Orders List</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Orders List</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">343f0984c41133007850fc0eb61b2960</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-07-15 16:03:47</sys_created_on>
+        <sys_id>3020a317dbea730037932946489619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Orders List</sys_name>
+        <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
+        <sys_update_name>sys_wizard_answer_3020a317dbea730037932946489619c5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-15 16:03:47</sys_updated_on>
+        <table/>
+        <target_url>x_370351_shopglue_orders_list.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
