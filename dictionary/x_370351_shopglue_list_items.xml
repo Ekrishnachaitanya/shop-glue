@@ -40,7 +40,7 @@
         <element default="None" label="Rated Members" max_length="40" name="rated_members" type="integer"/>
         <element default="None" label="Rating" mandatory="true" max_length="40" name="rating" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Short description" mandatory="true" max_length="150" name="short_description" type="string"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element label="Rating of product" max_length="40" name="u_rating" type="float"/>
         <index name="index">
             <element name="sys_class_name"/>
