@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Orders List" max_length="40" name="x_370351_shopglue_orders_list" type="collection">
+    <element extends="task" label="Orders List" max_length="40" name="x_370351_shopglue_orders_list" sizeclass="13" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Additional information" max_length="400" name="additional_information" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="City" mandatory="true" max_length="200" name="city" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Colony" mandatory="true" max_length="200" name="colony" type="string"/>

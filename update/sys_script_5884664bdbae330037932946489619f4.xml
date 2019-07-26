@@ -7,7 +7,7 @@
         <action_query>false</action_query>
         <action_update>true</action_update>
         <active>true</active>
-        <add_message>true</add_message>
+        <add_message>false</add_message>
         <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
@@ -62,7 +62,7 @@ var object1 = new GlideRecord('x_370351_shopglue_orders_list');
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5884664bdbae330037932946489619f4</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>37</sys_mod_count>
         <sys_name>Update rating</sys_name>
         <sys_overrides/>
         <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
@@ -70,7 +70,7 @@ var object1 = new GlideRecord('x_370351_shopglue_orders_list');
         <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
         <sys_update_name>sys_script_5884664bdbae330037932946489619f4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-15 06:26:57</sys_updated_on>
+        <sys_updated_on>2019-07-19 06:51:18</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>
