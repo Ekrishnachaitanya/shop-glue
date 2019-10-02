@@ -16,7 +16,7 @@
         <number_ref display_value="ORD">2f8d80e8dbe233003793294648961906</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">bc3f0984c41133007850fc0eb61b295e</super_class>
+        <super_class display_value="Task" name="task">993818a41b100010cf5443f3cc4bcb50</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

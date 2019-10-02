@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>shopglue map</name>
+        <order>100</order>
+        <run_business_rules>false</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_370351_shopglue_shopglue_data</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-02 09:34:45</sys_created_on>
+        <sys_id>0d9cb4f41b144010cf5443f3cc4bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>shopglue map</sys_name>
+        <sys_package display_value="ShopGlue" source="x_370351_shopglue">12d2ee44db62330037932946489619e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShopGlue">12d2ee44db62330037932946489619e4</sys_scope>
+        <sys_update_name>sys_transform_map_0d9cb4f41b144010cf5443f3cc4bcb37</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-02 09:34:45</sys_updated_on>
+        <target_table>x_370351_shopglue_list_items</target_table>
+    </sys_transform_map>
+</record_update>

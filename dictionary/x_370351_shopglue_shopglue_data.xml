@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="shopglue data" max_length="40" name="x_370351_shopglue_shopglue_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Color" label="Color" max_length="40" name="u_color" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Item name" label="Item name" max_length="40" name="u_item_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Item type" label="Item type" max_length="40" name="u_item_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufactured" label="Manufactured" max_length="40" name="u_manufactured" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Price" label="Price" max_length="40" name="u_price" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Product details" label="Product details" max_length="54" name="u_product_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="41" name="u_short_description" type="string"/>
+    </element>
+</database>

@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_370351_shopglue_list_items" element="NULL" name="x_370351_shopglue_list_items" parent="NULL" relationship="NULL" sys_domain="global" view="eb9e0140c41133007850fc0eb61b2995">b9415e49db26330037932946489619d8</list_id>
+            <list_id display_value="x_370351_shopglue_list_items" element="NULL" name="x_370351_shopglue_list_items" parent="NULL" relationship="NULL" sys_domain="global" view="f27710601b100010cf5443f3cc4bcb9b">b9415e49db26330037932946489619d8</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>item_type</element>
-            <list_id display_value="x_370351_shopglue_list_items" element="NULL" name="x_370351_shopglue_list_items" parent="NULL" relationship="NULL" sys_domain="global" view="eb9e0140c41133007850fc0eb61b2995">b9415e49db26330037932946489619d8</list_id>
+            <list_id display_value="x_370351_shopglue_list_items" element="NULL" name="x_370351_shopglue_list_items" parent="NULL" relationship="NULL" sys_domain="global" view="f27710601b100010cf5443f3cc4bcb9b">b9415e49db26330037932946489619d8</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>item_name</element>
-            <list_id display_value="x_370351_shopglue_list_items" element="NULL" name="x_370351_shopglue_list_items" parent="NULL" relationship="NULL" sys_domain="global" view="eb9e0140c41133007850fc0eb61b2995">b9415e49db26330037932946489619d8</list_id>
+            <list_id display_value="x_370351_shopglue_list_items" element="NULL" name="x_370351_shopglue_list_items" parent="NULL" relationship="NULL" sys_domain="global" view="f27710601b100010cf5443f3cc4bcb9b">b9415e49db26330037932946489619d8</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>price</element>
-            <list_id display_value="x_370351_shopglue_list_items" element="NULL" name="x_370351_shopglue_list_items" parent="NULL" relationship="NULL" sys_domain="global" view="eb9e0140c41133007850fc0eb61b2995">b9415e49db26330037932946489619d8</list_id>
+            <list_id display_value="x_370351_shopglue_list_items" element="NULL" name="x_370351_shopglue_list_items" parent="NULL" relationship="NULL" sys_domain="global" view="f27710601b100010cf5443f3cc4bcb9b">b9415e49db26330037932946489619d8</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -85,7 +85,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-08 10:32:55</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">eb9e0140c41133007850fc0eb61b2995</view>
+            <view display_value="Reference List" name="sys_ref_list">f27710601b100010cf5443f3cc4bcb9b</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
